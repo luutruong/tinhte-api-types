@@ -1,0 +1,26 @@
+{
+  "name": "tinhte-api-types",
+  "version": "1.0.0",
+  "description": "Tinhte API types",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luutruong/tinhte-api-types.git"
+  },
+  "keywords": [
+    "xenforo",
+    "xenforo typescript",
+    "xenforo api"
+  ],
+  "author": "Truong Luu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luutruong/tinhte-api-types/issues"
+  },
+  "homepage": "https://github.com/luutruong/tinhte-api-types#readme",
+  "devDependencies": {},
+  "files": [
+    "index.d.ts",
+    "index.js"
+  ]
+}
